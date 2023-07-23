@@ -12,4 +12,4 @@ This project acts as a blueprint approach to any classification problem. While t
 
 As an additional step, a pipeline was created with the chosen model in order to simplify the preprocessing and modeling code.
 
-This project was created on a Jupyter notebook.
+This project was created on a Jupyter Notebook with the rationale behind every step explained in depth.
